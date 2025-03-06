@@ -15,9 +15,7 @@
 🔹 Adobe Illustrator 🎭 | Adobe Photoshop 🖌️ | Git & GitHub 🐙
 ---
 ## 🎯 Projetos & Experimentos
-
 📌 Sempre explorando novas ideias! Aqui estão alguns dos meus projetos:
-
 ✅ [Sistema-de-gerenciamento-de-Perfumes](#) → Desenvolimento de uma aplicação em Java com Programação Orientada a Objetos (POO) e ArrayList para gerenciar uma lista de perfumes, permitindo que o usuário cadastre, altere, exclua e consulte os perfumes.
 ✍️ Mais projetos em breve! 🚀
 ---
