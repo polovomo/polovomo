@@ -11,24 +11,23 @@
 - **🌐 Desenvolvimento Web** → HTML, CSS e JavaScript para sites incríveis
 ---
 ## 🚀 Tecnologias & Ferramentas
-🔹 Java ☕ | MySQL 🛢️ | HTML/CSS 🎨 | JavaScript ⚡| C++ ⏺️
+🔹 Java ☕ | MySQL 🛢️ | HTML/CSS 🎨 | JavaScript ⚡| C++ ⏺️ 
 🔹 Adobe Illustrator 🎭 | Adobe Photoshop 🖌️ | Git & GitHub 🐙
 ---
 ## 🎯 Projetos & Experimentos
+
 📌 Sempre explorando novas ideias! Aqui estão alguns dos meus projetos:
-✅ [Projeto 1](#Sistema-de-gerenciamento-de-Perfumes) → Breve descrição (Exemplo: "Landing Page interativa feita com HTML, CSS e JS")  
-✅ [Projeto 2](#) → Breve descrição (Exemplo: "CRUD em Java com MySQL")  
-✅ [Projeto 3](#) → Breve descrição (Exemplo: "Logo e identidade visual para uma startup fictícia")  
+
+✅ [Sistema-de-gerenciamento-de-Perfumes](#) → Desenvolimento de uma aplicação em Java com Programação Orientada a Objetos (POO) e ArrayList para gerenciar uma lista de perfumes, permitindo que o usuário cadastre, altere, exclua e consulte os perfumes.
 ✍️ Mais projetos em breve! 🚀
 ---
 
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?polovomo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?polovomo&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?polovomo=seu-usuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?polovomo=seu-usuario&layout=compact&theme=radical)
 ---
 ## 🌍 Onde me encontrar?
-📌 [GitHub](https://github.com/polovomo?tab=repositories) → Confira meus códigos!   
-📌 [Portfólio](#) → Meu espaço criativo digital  
+📌 [GitHub](https://github.com/polovomo?tab=repositories) → Confira meus códigos!    
 🚀 Sempre pronto para novas oportunidades e desafios! Vamos construir algo incrível juntos? 😃
 
